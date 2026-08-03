@@ -5,6 +5,7 @@ This project is a fully functional version of the popular **2048 puzzle game**, 
 
 It was originally developed in **May 2025** as the **Final Project** for the academic course:  
 **Programming Techniques and Applications**.
+
 *Note: This repository serves as a lightweight architectural overview, showcasing the structural configuration, interface design, and method signatures of the application rather than the complete source implementation. In order to protect the intellectual property and personal effort invested in developing this system, the comprehensive execution logic has been kept private. If you would like to explore the full, integrated codebase, please reach out to me directly using the contact email provided on my CV.*
 
 ### Continuous Improvement (Refactoring)
